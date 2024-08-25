@@ -16,4 +16,4 @@ Está armazenando os dados da aplicação web.
 Esse repositório contém:
 - pasta 'dba': contém o código de configuração do banco de dados (RDS) para conexão com a EC2;
 - pasta 'page': contém o código html/php criado, bem como a conexão entre o frontend e backend;
-- pasta 'video': contém o vídeo mostrando as instâncias e o código funcionando.
+- [Link do vídeo](https://drive.google.com/file/d/1nlDA-6CEU1vQCWjvL562vBNIKsJTv9tC/view?usp=sharing) 
